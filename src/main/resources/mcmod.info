@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hudcaching",
+  "name": "BeniCaching",
+  "description": "HUD caching with a configurable update rate from 1 to 20 updates per second.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Beni", "Moulberry (original HUDCaching)"],
+  "credits": "Based on Moulberry's HUDCaching. Modified source is identified in the project documentation.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["oneconfig"]
+}
+]

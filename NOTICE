@@ -1,0 +1,4 @@
+BeniCaching is based on MCHUDCaching by Moulberry.
+The original source files and LICENSE file are retained. Changes for BeniCaching include the OneConfig configuration class, configurable HUD refresh rate, updated metadata, and project documentation.
+
+OneConfig is a separate third-party dependency by Polyfrost and is not bundled in this repository.
